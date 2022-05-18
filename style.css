@@ -60,18 +60,18 @@ html {
     /* margin: 200px 0px 0px 28vw; */
   }
   .slide-1 {
-    background-image: url("images/img1.jpeg");
+    background-image: url("img1.jpeg");
     background-size: 100vw 700px;
   }
   .slide-2 {
-    background-image: url("images/img2.jpeg");
+    background-image: url("img2.jpeg");
     background-size: 100vw 500px;
   }
   .slide-3 {
-    background-image: url("images/img3.jpeg");
+    background-image: url("img3.jpeg");
     background-size: 100vw 500px;
   }
   .slide-4 {
-    background-image: url("images/img4.jpeg");
+    background-image: url("img4.jpeg");
     background-size: 100vw 500px;
   }
