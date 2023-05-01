@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello , there!"
+title:  "Hello there!"
 date:   2023-04-05 05:25:47 +0530
 categories: jekyll update
 ---
